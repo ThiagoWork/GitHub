@@ -7,3 +7,5 @@ if (this.testeGit) {
 } else {
   false;
 }
+
+onvrdisplayactivate;
